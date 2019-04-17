@@ -1,0 +1,159 @@
+body
+{
+	background-image: url("images/2018/1.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+#menu
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-variant: small-caps;
+}
+
+#menu ul
+{
+	list-style-type: none;
+	margin-top: 10px;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgba(242, 242, 242, 0.6);
+}
+
+#menu ul li
+{
+	float: left;
+}
+
+#menu ul li a
+{
+	display: flex;
+	color: black;  
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#menu a:link, a:visited 
+{
+	text-decoration: none;
+	color: black;
+}
+
+#menu a:hover 
+{
+	background-color: rgba(226,209,255, 0.6);
+}
+
+h1
+{
+	background-color: rgba(255,214,219, 0.6);
+	border: 5px solid #BA9CA0;
+	border-radius: 20px;
+	position: relative;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Helvetica";
+	padding: 5px;
+	width: 75%;
+	margin: auto;
+	text-shadow: 0px 0px 5px #F2F2F2;
+}
+
+h2
+{
+	text-shadow: 0px 0px 5px #F2F2F2;
+}
+
+p
+{
+	font-weight: bold;
+}
+
+img
+{
+	border-color: black;
+	border-radius: 2px;
+	border: 3px solid rgba(242, 242, 242, 0.6);
+	width: 500px;
+	height: 332px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#firstgallery
+{
+	background-color: rgba(179,174,209, 0.6);
+	border: 5px solid #938FAC;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#secondgallery
+{
+	background-color: rgba(219,253,255, 0.6);
+	border: 5px solid #A0B9BA;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#thirdgallery
+{
+	background-color: rgba(179,214,209, 0.6);
+	border: 5px solid #839C99;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+button
+{
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: #e7e7e7; color: black;
+}
+
+button:hover
+{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+button:disabled 
+{
+	opacity: 0.6;
+	cursor: not-allowed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
