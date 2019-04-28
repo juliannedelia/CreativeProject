@@ -1,0 +1,164 @@
+body
+{
+	background-image: url("images/2018/1.jpg");
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+#menu
+{
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-variant: small-caps;
+}
+
+#menu ul
+{
+	list-style-type: none;
+	margin-top: 10px;
+	padding: 0;
+	overflow: hidden;
+	background-color: rgba(242, 242, 242, 0.6);
+}
+
+#menu ul li
+{
+	float: left;
+}
+
+#menu ul li a
+{
+	display: flex;
+	color: black;  
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#menu a:link, a:visited 
+{
+	text-decoration: none;
+	color: black;
+}
+
+#menu a:hover 
+{
+	background-color: rgba(226,209,255, 0.6);
+}
+
+h1
+{
+	background-color: rgba(255,214,219, 0.6);
+	border: 5px solid #BA9CA0;
+	border-radius: 20px;
+	position: relative;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: "Helvetica";
+	padding: 10px;
+	width: 75%;
+	margin: auto;
+	text-shadow: 0px 0px 5px #F2F2F2;
+}
+
+#description
+{
+	background-color: rgba(179,174,209, 0.6);
+	border: 5px solid #938FAC;
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#forum
+{
+	background-color: rgba(219,253,255, 0.6);
+	border: 5px solid #A0B9BA;
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#output
+{
+	background-color: rgba(179,214,209, 0.6);
+	border: 5px solid #839C99;
+	border-radius: 20px;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+
+}
+
+#reviewsoutput
+{
+	background-color: rgba(173,176,186, 0.6);
+	border: 5px solid #7E8188;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#backtotop
+{
+	clear: both;
+	background-color: rgba(179,174,209, 0.6);
+	border: 5px solid #938FAC;
+	border-radius: 20px;
+	padding: 2px;
+	width: 75%;
+	margin: auto;
+	margin-top: 15px;
+	text-align: center;
+	font-family: "Helvetica";
+}
+
+#backtotop a
+{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
